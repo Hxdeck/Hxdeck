@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Hxdeck
 - 👀 I’m interested in making software.
-- 🌱 I’m currently learning programming.
 - 📫 How to reach me: admin@hxdeck.com
 
 <!---
